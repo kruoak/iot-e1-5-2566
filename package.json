@@ -1,0 +1,15 @@
+{
+  "name": "appiot_e5-2566",
+  "version": "1.0.0",
+  "description": "ฝึกใช้ git",
+  "main": "ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
